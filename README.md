@@ -7,5 +7,5 @@
 <ul>
 <li>PHP</li>
 <li>C</li>
-<li>JavaScrip</li>
+<li>JavaScript</li>
 </ul>
