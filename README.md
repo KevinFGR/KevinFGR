@@ -12,7 +12,8 @@
 <a href="https://linkedin.com/in/kevin-felipe-2b4678217">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)<a>
 <a href="https://wa.me/5511964011493">![Whatsapp](https://img.shields.io/badge/Whatsapp-008000?logo=whatsapp&logoColor=white&style=for-the-badge)</a>
 <a href="mailto:kevinfelipe.gr@gmail.com">![Email](https://img.shields.io/badge/Email-8b0000?logo=gmail&logoColor=white&style=for-the-badge)</a>
-
+<a href="https://drive.google.com/file/d/1WvvMceGBXRiVinVh13XPyZ8_I7EkylXs/view?usp=share_link">![Curriculum](https://img.shields.io/badge/Curriculum-%230011B5?logo=microsoft-word&logoColor=white&style=for-the-badge)</a>
+  
 ## Favorite programing language: :snake:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="60px" width="60px"/>
 
