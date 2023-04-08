@@ -41,7 +41,9 @@
 
 
 ## 📊GitHub Stats :
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinFGR&theme=transparent&hide_border=true&count_private=true" height="200px"/><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFGR&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="imagem" height="150px"/>
+<div style="display:flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinFGR&theme=transparent&hide_border=true&count_private=true" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFGR&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="imagem" height="200px"/>
+  
+
 </div>
