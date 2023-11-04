@@ -14,10 +14,9 @@
 <a href="mailto:kevinfelipe.gr@gmail.com">![Email](https://img.shields.io/badge/Email-8b0000?logo=gmail&logoColor=white&style=for-the-badge)</a>
 <a href="https://drive.google.com/file/d/1WvvMceGBXRiVinVh13XPyZ8_I7EkylXs/view?usp=share_link">![Curriculum](https://img.shields.io/badge/Curriculum-%230011B5?logo=microsoft-word&logoColor=white&style=for-the-badge)</a>
   
-## Favorite programing language/IDE: :snake:
+## Favorite IDE: :snake:
 
 <div style="display:flex;">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="60px" width="60px"/>
 <img src="https://user-images.githubusercontent.com/109561598/236125129-a0feb3c0-7b57-4890-b938-cfad841e4d69.png" height="60px"/>
 </div>
 
