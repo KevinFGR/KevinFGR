@@ -2,7 +2,7 @@
   
 # 👋 Hi, my name is Kevin Felipe
 <p>
-  I'm an information systems studant trying to get his first developer jog who wants to share my academic, personal and professional projects.
+  I'm an information systems studant trying to get his first developer job who wants to share my academic, personal and professional projects.
 </p>
 </div>
 <hr/>
@@ -46,6 +46,10 @@
 <img src="https://user-images.githubusercontent.com/109561598/236124312-95e68f6a-cfe2-4e0a-8602-2c3e23a16108.png" height="60px" />
 <img src="https://user-images.githubusercontent.com/109561598/236124346-1e9b002d-9d7f-4b47-8ff7-ef1e1d277bbd.png" height="60px" />
 <img src="https://user-images.githubusercontent.com/109561598/236124608-cdb2961e-991a-4817-8489-a6d260940dca.png" height="60px" />
+<img src="https://github.com/KevinFGR/KevinFGR/assets/109561598/9d1a4179-8ef2-4a96-aa48-679a1f5f8495" alt="Android Studio logo" height="60px"/>
+  
+
+
 </div>
 
 
