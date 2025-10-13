@@ -20,6 +20,15 @@
 <img src="https://user-images.githubusercontent.com/109561598/236125129-a0feb3c0-7b57-4890-b938-cfad841e4d69.png" height="60px"/>
 </div>
 
+## I current work with:
+
+<div style="display:flex;">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C Sharp logo" height="60px"/>
+  <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="ASP.NET logo" height="60px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Structured Query Language logo" height="60px"/>
+  <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/angular/angular.png" alt="Angular logo" height="60px"/>
+</div>
+
 ## Languages and frameworks that I've learned:
 <div style="display:flex;" width="200px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML logo" height="60px"/>
@@ -34,7 +43,7 @@
     <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="ASP.NET logo" height="60px"/>
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Structured Query Language logo" height="60px"/>
     <img src="https://user-images.githubusercontent.com/109561598/235825226-819ff1bd-418a-40cd-82c7-49b9e118824d.png" alt="Flask logo" height="60px"/>
-
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB logo" height="60px"/>
 </div>
 
 ## More tools that I know:
