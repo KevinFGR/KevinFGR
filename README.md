@@ -2,7 +2,7 @@
   
 # 👋 Hi, my name is Kevin Felipe
 <p>
-  I'm an information systems studant trying to get his first developer job who wants to share my academic, personal and professional projects.
+  I'm a developer who wants to share my academic, personal and professional projects.
 </p>
 </div>
 <hr/>
