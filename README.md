@@ -25,7 +25,7 @@
 <div style="display:flex;">
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C Sharp logo" height="60px"/>
   <img src="https://avatars.githubusercontent.com/u/9141961?s=200&v=4" alt="ASP.NET logo" height="60px"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="Structured Query Language logo" height="60px"/>
+  <img src="https://i.pinimg.com/474x/3e/55/df/3e55dfb0980956b42cac768b740cdad6.jpg" alt="sqlserver logo" height="60px"/>
   <img src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/angular/angular.png" alt="Angular logo" height="60px"/>
 </div>
 
