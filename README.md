@@ -1,9 +1,9 @@
 <div align="center">
   
-# 👋 Hi, my name is Kevin Felipe
-<p>
-  I'm a developer who wants to share my academic, personal and professional projects.
-</p>
+  # 👋 Hi, my name is Kevin Felipe
+  <p>
+    I'm a developer who wants to share my academic, personal and professional projects.
+  </p>
 </div>
 <hr/>
 
@@ -17,7 +17,7 @@
 ## Favorite IDE: :snake:
 
 <div style="display:flex;">
-<img src="https://user-images.githubusercontent.com/109561598/236125129-a0feb3c0-7b57-4890-b938-cfad841e4d69.png" height="60px"/>
+  <img src="https://user-images.githubusercontent.com/109561598/236125129-a0feb3c0-7b57-4890-b938-cfad841e4d69.png" height="60px"/>
 </div>
 
 ## I current work with:
@@ -59,25 +59,20 @@
 
 ## More tools that I know:
 <div style="display:flex;">
-<img src="https://user-images.githubusercontent.com/109561598/236123518-7ee72693-7244-46c6-98b7-13b26c2dd46f.png" height="60px" />
-<img src="https://user-images.githubusercontent.com/109561598/236123624-354da67a-a1ac-4ab0-bed9-91c1cc533c3d.png" height="60px" />
-<img src="https://user-images.githubusercontent.com/109561598/236123784-2a767a9d-f4d1-4fb1-b647-26af8af603b0.png" height="60px" />
-<img src="https://user-images.githubusercontent.com/109561598/236124312-95e68f6a-cfe2-4e0a-8602-2c3e23a16108.png" height="60px" />
-<img src="https://user-images.githubusercontent.com/109561598/236124346-1e9b002d-9d7f-4b47-8ff7-ef1e1d277bbd.png" height="60px" />
-<img src="https://user-images.githubusercontent.com/109561598/236124608-cdb2961e-991a-4817-8489-a6d260940dca.png" height="60px" />
-<img src="https://github.com/KevinFGR/KevinFGR/assets/109561598/9d1a4179-8ef2-4a96-aa48-679a1f5f8495" alt="Android Studio logo" height="60px"/>
+  <img src="https://user-images.githubusercontent.com/109561598/236123518-7ee72693-7244-46c6-98b7-13b26c2dd46f.png" height="60px" />
+  <img src="https://user-images.githubusercontent.com/109561598/236123624-354da67a-a1ac-4ab0-bed9-91c1cc533c3d.png" height="60px" />
+  <img src="https://user-images.githubusercontent.com/109561598/236123784-2a767a9d-f4d1-4fb1-b647-26af8af603b0.png" height="60px" />
+  <img src="https://user-images.githubusercontent.com/109561598/236124312-95e68f6a-cfe2-4e0a-8602-2c3e23a16108.png" height="60px" />
+  <img src="https://user-images.githubusercontent.com/109561598/236124346-1e9b002d-9d7f-4b47-8ff7-ef1e1d277bbd.png" height="60px" />
+  <img src="https://user-images.githubusercontent.com/109561598/236124608-cdb2961e-991a-4817-8489-a6d260940dca.png" height="60px" />
+  <img src="https://github.com/KevinFGR/KevinFGR/assets/109561598/9d1a4179-8ef2-4a96-aa48-679a1f5f8495" alt="Android Studio logo" height="60px"/>
 </div>
 
 
 ## 📊GitHub Stats :
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinFGR&theme=transparent&hide_border=true&count_private=true&show_icons=true" height="189px"/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFGR&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150px"/> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinfgr&theme=github_dark&hide_border=true" height="200px"/>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kevinfgr&theme=github_dark&hide_border=true" height="200px"/>
-  
-  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinfgr&theme=github_dark&hide_border=true" height="204px" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinfgr&theme=github_dark" height="204px"/>
-
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kevinfgr&theme=github_dark&hide_border=true" height="204px" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kevinfgr&theme=github_dark" height="204px"/>
 </div>
